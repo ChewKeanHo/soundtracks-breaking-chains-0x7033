@@ -1,19 +1,26 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Breaking Chains 0x7033 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Serious tired of office politics and dramas and yet you cannot fight back?
+Well, here's a soundtrack to break it away the fustrations. It is another
+attempt to combine dance vocal and video making background music.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #electronicpop #longing #passionate #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/03_Breaking-Chains-0x7033.mp3
+  Size: 11091968        Blocks: 21664      IO Block: 4096   regular file
+Access: 2025-11-04 20:32:28.362461399 +0800
+Modify: 2025-11-04 20:29:50.865783855 +0800
+Change: 2025-11-04 20:29:50.865783855 +0800
+ Birth: 2025-07-20 11:07:09.179780847 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-06
+On YouTube since : 2025-11-22
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=IMQ7E5d5B9k)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +53,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Breaking Chains 0x7033
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-breaking-chains-0x7033
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
